@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MultyAsyncParallel.iml" filepath="$PROJECT_DIR$/.idea/MultyAsyncParallel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_lessons/.idea/python_lessons.iml" filepath="$PROJECT_DIR$/../python_lessons/.idea/python_lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_studying/.idea/python_studying.iml" filepath="$PROJECT_DIR$/../python_studying/.idea/python_studying.iml" />
     </modules>
   </component>
 </project>

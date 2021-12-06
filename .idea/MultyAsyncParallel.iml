@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="python_lessons" />
+    <orderEntry type="module" module-name="python_studying" />
   </component>
   <component name="PyNamespacePackagesService">
     <option name="namespacePackageFolders">
