@@ -6,6 +6,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (MultyAsyncParallel)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="python_lessons" />
+    <orderEntry type="module" module-name="python_studying" />
   </component>
   <component name="PyNamespacePackagesService">
     <option name="namespacePackageFolders">
